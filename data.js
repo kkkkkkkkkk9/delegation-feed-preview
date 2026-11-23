@@ -60,7 +60,7 @@ window.POSTS = [
   "slides": [
    "img/maui-must-do-s-1.jpg"
   ],
-  "caption": "We drove the Road to Hana without cash and watched other families eat Aunty Sandy’s banana bread. 🍌 Bring cash. And the Haleakalā sunrise books up 60 days out—drop it in your trip to-dos so nobody finds out at the gate."
+  "caption": "Cash. Bring cash. The best banana bread on the Road to Hana comes from roadside stands that don’t take cards. 🍌 And the Haleakalā sunrise books up 60 days out—add both to your trip to-dos now, so nobody finds out at the gate."
  },
  {
   "name": "The spreadsheets",
@@ -109,7 +109,7 @@ window.POSTS = [
   "slides": [
    "img/tokyo-must-do-s-1.jpg"
   ],
-  "caption": "We missed the Ghibli Museum on our first trip: tickets go on sale on the 10th of the month before and sell out fast. 🗻 Now it’s the first line in our shared to-dos, right above “wear shorts to teamLab” (you wade). Whoever books it, checks it off."
+  "caption": "Ghibli Museum tickets go on sale on the 10th of the month before, and they go fast. Ask us how we know. 🗻 Put it first in your shared to-dos, right above “wear shorts to teamLab” (you wade)."
  },
  {
   "name": "Everyone’s ready",
