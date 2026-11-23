@@ -7,7 +7,7 @@ window.POSTS = [
    "img/home-alone-3.jpg",
    "img/home-alone-4.jpg"
   ],
-  "caption": "A whole van of kids… minus one. 🎄 For the record, Kevin packed better than any of them. Next time, check who’s actually ready—that’s what the little progress circles are for."
+  "caption": "Headcount: 11. Actual headcount: 12. 🎄 The McCallisters had no way to see who was really ready before the airport. (Kevin, for the record, was fine.) In Delegation, everyone’s progress is right there."
  },
  {
   "name": "Bring along everyone",
@@ -39,7 +39,7 @@ window.POSTS = [
    "img/disney-world-3.jpg",
    "img/disney-world-4.jpg"
   ],
-  "caption": "We’ve paid park prices for a glow stick. Once. ✨ Bring them from home, ask any counter for free ice water, and pack layers—a 40° rope drop turns into a 70° afternoon. Disney is pricey enough; Delegation’s free to try."
+  "caption": "We’ve paid park prices for a glow stick. Once. ✨ Bring them from home, ask any counter for free ice water, and pack layers—a 40° rope drop turns into a 70° afternoon. Ready-made bundles do the rest of the thinking."
  },
  {
   "name": "Packing suggestions",
