@@ -60,7 +60,7 @@ window.POSTS = [
   "slides": [
    "img/maui-must-do-s-1.jpg"
   ],
-  "caption": "Whales, a sunrise above the clouds, and the best banana bread on the Road to Hana. 🍌 A few of these need reservations weeks out—drop them in your trip to-dos so nobody finds out at the gate."
+  "caption": "We drove the Road to Hana without cash and watched other families eat Aunty Sandy’s banana bread. 🍌 Bring cash. And the Haleakalā sunrise books up 60 days out—drop it in your trip to-dos so nobody finds out at the gate."
  },
  {
   "name": "The spreadsheets",
@@ -109,7 +109,7 @@ window.POSTS = [
   "slides": [
    "img/tokyo-must-do-s-1.jpg"
   ],
-  "caption": "Ghibli Museum tickets drop on the 10th. teamLab means wading in shorts. And Fuji is clearest in winter. 🗻 Put it all in your shared to-dos—whoever books it, checks it off."
+  "caption": "We missed the Ghibli Museum on our first trip: tickets go on sale on the 10th of the month before and sell out fast. 🗻 Now it’s the first line in our shared to-dos, right above “wear shorts to teamLab” (you wade). Whoever books it, checks it off."
  },
  {
   "name": "Everyone’s ready",
