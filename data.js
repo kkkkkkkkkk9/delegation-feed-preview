@@ -39,7 +39,7 @@ window.POSTS = [
    "img/disney-world-3.jpg",
    "img/disney-world-4.jpg"
   ],
-  "caption": "Glow sticks from home, ice water for free, and layers for a 40° rope drop that turns into a 70° afternoon. 🏰 Disney is pricey enough—Delegation’s free to try."
+  "caption": "We’ve paid park prices for a glow stick. Once. ✨ Bring them from home, ask any counter for free ice water, and pack layers—a 40° rope drop turns into a 70° afternoon. Disney is pricey enough; Delegation’s free to try."
  },
  {
   "name": "Packing suggestions",
@@ -95,7 +95,7 @@ window.POSTS = [
    "img/lapland-3.jpg",
    "img/lapland-4.jpg"
   ],
-  "caption": "Sunset at 1pm, −20°, and kids who still won’t leave the huskies. ❄️ Mittens over gloves, batteries in the inside pocket. Give each kid their own list, and nobody’s hunting for a second mitten at 9am."
+  "caption": "−22°, a husky sled, and a kid asking why we didn’t bring the warm mittens. 🧤 Lesson learned: mittens over gloves, and batteries in an inside pocket (the cold drains them fast). Give each kid their own list, and the second mitten actually makes it."
  },
  {
   "name": "Not a whole project",
